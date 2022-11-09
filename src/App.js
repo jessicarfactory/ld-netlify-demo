@@ -36,7 +36,7 @@ function App() {
         <header className="App-header mx-auto bg-ldgray shadow-2xl w-full xl:w-4/5 grid col-span-1 row-start-2 xl:col-start-2 xl:col-span-2">
           <Login />
         </header>
-      ) : }
+      ) : null}
         <header className="App-header grid row-start-2 xl:row-start-2 xl:col-start-2 xl:col-span-2">
           <div className="body px-8 py-4 mb-5 w-4/5">
             <div className="text-2xl md:text-5xl xl:text-7xl font-audimat text-transparent bg-clip-text bg-gradient-to-br from-ldgdcol1 to-ldgdcol2">
